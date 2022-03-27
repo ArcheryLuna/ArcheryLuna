@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcheryLuna
-- 👀 I’m interested in ur nan
-- 🌱 I’m currently learning ur mom
+- 👀 I’m interested in Doing entertaining youtube content on and about coding and computer science
+- 🌱 I’m currently learning react and react native
 - 💞️ I’m looking to collaborate on Acegram, Vicegram and Deku bot
 - 📫 How to reach me admin@acegram.xyz
 
